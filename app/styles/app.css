@@ -1,0 +1,9 @@
+.page-header a h1 {
+  color: #555;
+}
+
+.navbar-default .navbar-nav > li > a.active,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navebar-nav > .active > a:focus {
+  color: #555555;
+}
